@@ -1,2 +1,2 @@
 # arthub
-a platform to create art works.
+a platform to create artworks.
